@@ -1,2 +1,2 @@
-# Data-Structures-C-Codes
-C Language codes for all Data Structures
+# Data Structures Codes
+Codes for all Data Structures: Arrays, LL, Stack, Queue, Graph, Tree
